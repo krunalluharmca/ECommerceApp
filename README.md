@@ -1,2 +1,0 @@
-# ECommerceApp
-Interview Practical Test
